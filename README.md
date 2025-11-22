@@ -1,48 +1,81 @@
-# Hi, I'm Ahmad Bader 👋
+<div align="center">
 
-**Full Stack Software Engineer** based in Berlin, Germany
+# Ahmad Bader
 
-I build and scale enterprise applications with a focus on backend development. Currently working on HR platforms, infrastructure monitoring systems, and telecom engineering tools.
+**Full Stack Software Engineer**
 
----
+Building enterprise systems by day, contributing to open source by night.
 
-### 🔧 What I Work With
+[![Email](https://img.shields.io/badge/-ahmadqasem.b@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadqasem.b@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-**Backend:** Java 11/21 · Spring Boot · GoLang · Node.js  
-**Frontend:** React · TypeScript · Ant Design · Tailwind CSS  
-**Databases:** PostgreSQL · MongoDB · JOOQ · Hibernate · JPA  
-**Infrastructure:** Docker · Apache NiFi · Kafka · Nginx · Caddy · Jenkins CI/CD  
-**Tools:** Git · Maven · Liquibase · Linux Server Administration
+</div>
 
 ---
 
-### 💼 Current Work
+## ⚡ About Me
 
-**Backend Engineer & Technical Lead** @ BeneHR *(March 2025 - Present)*  
-Building a modular HR platform from the ground up — employee management, payroll processing, organizational hierarchy, and role-based access control. Handling architecture decisions, DevOps setup, and translating client requirements into technical specs.
+I architect and build enterprise-grade applications with a focus on **backend systems**, **microservices**, and **data pipelines**. From designing HR platforms to building telecom engineering tools, I enjoy solving complex problems with clean, scalable code.
 
-**Full Stack Software Engineer** @ TTG International *(July 2023 - Present)*  
-Developing enterprise applications using microservices architecture. Building data pipelines with NiFi and Kafka, creating desktop applications for telecom network planning with Golang (Wails), and migrating legacy Pascal libraries to Go.
+**Google Summer of Code 2022 Alumni** — Contributed to VLC Media Player (VideoLAN)
 
 ---
 
-### 🚀 Notable Projects
+## 🛠️ Tech Arsenal
 
-**GEMS** — IT/Network infrastructure monitoring platform with pluggable driver systems for collecting metrics from various hardware (HPE MSA storage, network devices) via SSH, SNMP, and REST APIs.
-
-**Telecom Traffic Engineering Tool** — Desktop application for network planning and RF analysis, built with Golang and React.
-
-**VLC Interactive Movies** — Google Summer of Code 2022 contributor with VideoLan. Implemented support for interactive movie playback in VLC media player using C/C++.
-
-**Gorgon Game Engine** — Developed a 2D physics simulation system in C++17, supporting forces (gravity, springs, collisions) and collision resolution.
-
----
-
-### 📫 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-ahmadqasem.b%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ahmadqasem.b@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+```
+Backend        →  Java 21 · Spring Boot · GoLang · Node.js
+Frontend       →  React · TypeScript · Next.js · Ant Design · Tailwind
+Data           →  PostgreSQL · MongoDB · JOOQ · Apache NiFi · Kafka
+Infrastructure →  Docker · Nginx · Caddy · Jenkins · Linux
+Languages      →  Arabic 🗣️ · English (C1) · German (A2)
+```
 
 ---
 
-🌍 **Languages:** Arabic (Native) · English (C1) · German (A2)
+## 🔥 What I'm Building
+
+### BeneHR — *Modular HR Platform*
+`Java 21` `Spring Boot` `PostgreSQL` `Docker`
+
+Leading backend architecture and development for a modular HR system. Building core modules: employee management, payroll processing, organizational hierarchy, and granular role-based access control. *(Side Project)*
+
+### GEMS — *Infrastructure Monitoring Platform*
+`Java` `Spring Boot` `React` `SSH` `SNMP`
+
+IT/Network monitoring system with a pluggable driver architecture. Collecting real-time metrics from enterprise hardware (HPE MSA storage, network devices) via SSH CLI, SNMP, and REST APIs.
+
+### Telecom Traffic Engineering Tool
+`GoLang` `Wails` `React`
+
+Desktop application for network planning and radio frequency (RF) analysis. Built for telecom engineers to model and optimize network infrastructure.
+
+---
+
+## 🏆 Open Source & Contributions
+
+| Project | Description |
+|---------|-------------|
+| **VLC Media Player** | GSoC 2022 — Implemented interactive movie support in C/C++ |
+| **Gorgon Game Engine** | Built a 2D physics engine in C++17 (gravity, springs, collisions) |
+| **Legacy Migration** | Migrated internal Pascal libraries to GoLang at TTG International |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Clean code always looks like it was written by someone who cares."*
+
+</div>
