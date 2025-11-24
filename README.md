@@ -2,7 +2,7 @@
 
 # Ahmad Bader
 
-**Full Stack Software Engineer**
+**Software Engineer**
 
 Building enterprise systems by day, contributing to open source by night.
 
@@ -60,19 +60,6 @@ Desktop application for network planning and radio frequency (RF) analysis. Buil
 | **Gorgon Game Engine** | Built a 2D physics engine in C++17 (gravity, springs, collisions) |
 | **Legacy Migration** | Migrated internal Pascal libraries to GoLang at TTG International |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadqasembader&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadqasembader&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
