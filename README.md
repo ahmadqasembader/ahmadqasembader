@@ -28,7 +28,6 @@ Backend        →  Java 21 · Spring Boot · GoLang · Node.js
 Frontend       →  React · TypeScript · Next.js · Ant Design · Tailwind
 Data           →  PostgreSQL · MongoDB · JOOQ · Apache NiFi · Kafka
 Infrastructure →  Docker · Nginx · Caddy · Jenkins · Linux
-Languages      →  Arabic 🗣️ · English (C1) · German (A2)
 ```
 
 ---
