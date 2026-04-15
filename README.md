@@ -25,7 +25,7 @@
 
 ## 🏆 Open Source (Public)
 
-- Recently started contributing to **cncf/automatino**.
+- Recently started contributing to **CNCF automation initiatives**.
 - **VLC Media Player (VideoLAN)**: GSoC 2022 contributor; implemented interactive movie support in C/C++.
 - **Gorgon Game Engine**: built a 2D physics engine in C++17 (gravity, springs, collisions).
 
